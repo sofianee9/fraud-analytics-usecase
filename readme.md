@@ -1,4 +1,4 @@
-# FINOVOX - Use Case Study
+# - Use Case Study
 
 Application d'analyse forensique documentaire pour la détection de fraudes.
 
@@ -54,4 +54,5 @@ streamlit run app.py
 ├── dossiers_fraude.json    # Base de données des dossiers
 ├── requirements.txt        # Dépendances Python
 └── README.md
+
 ```
